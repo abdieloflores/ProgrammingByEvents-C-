@@ -1,0 +1,13 @@
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.csprojAssemblyReference.cache
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.AssemblyInfoInputs.cache
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.AssemblyInfo.cs
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.csproj.CoreCompileInputs.cache
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.exe
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.deps.json
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.runtimeconfig.json
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.runtimeconfig.dev.json
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.dll
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.pdb
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.dll
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.pdb
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.genruntimeconfig.cache

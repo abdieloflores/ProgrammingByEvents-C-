@@ -1,0 +1,13 @@
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\bin\Debug\netcoreapp3.1\Actividad1.exe
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\bin\Debug\netcoreapp3.1\Actividad1.deps.json
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\bin\Debug\netcoreapp3.1\Actividad1.runtimeconfig.json
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\bin\Debug\netcoreapp3.1\Actividad1.runtimeconfig.dev.json
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\bin\Debug\netcoreapp3.1\Actividad1.dll
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\bin\Debug\netcoreapp3.1\Actividad1.pdb
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\obj\Debug\netcoreapp3.1\Actividad1.csprojAssemblyReference.cache
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\obj\Debug\netcoreapp3.1\Actividad1.AssemblyInfoInputs.cache
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\obj\Debug\netcoreapp3.1\Actividad1.AssemblyInfo.cs
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\obj\Debug\netcoreapp3.1\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\obj\Debug\netcoreapp3.1\Actividad1.dll
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\obj\Debug\netcoreapp3.1\Actividad1.pdb
+C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Actividad1\Actividad1\obj\Debug\netcoreapp3.1\Actividad1.genruntimeconfig.cache

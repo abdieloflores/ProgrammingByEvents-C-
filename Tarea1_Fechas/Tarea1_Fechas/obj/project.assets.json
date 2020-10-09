@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abdiel Flores\\Desktop\\ProgrammingByEvents-C-\\Tarea1_Fechas\\Tarea1_Fechas\\Tarea1_Fechas.csproj",
+      "projectUniqueName": "D:\\ProgrammingByEvents-C-\\Tarea1_Fechas\\Tarea1_Fechas\\Tarea1_Fechas.csproj",
       "projectName": "Tarea1_Fechas",
-      "projectPath": "C:\\Users\\Abdiel Flores\\Desktop\\ProgrammingByEvents-C-\\Tarea1_Fechas\\Tarea1_Fechas\\Tarea1_Fechas.csproj",
+      "projectPath": "D:\\ProgrammingByEvents-C-\\Tarea1_Fechas\\Tarea1_Fechas\\Tarea1_Fechas.csproj",
       "packagesPath": "C:\\Users\\Abdiel Flores\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abdiel Flores\\Desktop\\ProgrammingByEvents-C-\\Tarea1_Fechas\\Tarea1_Fechas\\obj\\",
+      "outputPath": "D:\\ProgrammingByEvents-C-\\Tarea1_Fechas\\Tarea1_Fechas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abdiel Flores\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practica_9_setters_getters/1.0.0": {
+        "runtime": {
+          "Practica_9_setters_getters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica_9_setters_getters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\bin\Debug\netcoreapp3.1\Practica_9_setters_getters.exe
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\bin\Debug\netcoreapp3.1\Practica_9_setters_getters.deps.json
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\bin\Debug\netcoreapp3.1\Practica_9_setters_getters.runtimeconfig.json
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\bin\Debug\netcoreapp3.1\Practica_9_setters_getters.runtimeconfig.dev.json
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\bin\Debug\netcoreapp3.1\Practica_9_setters_getters.dll
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\bin\Debug\netcoreapp3.1\Practica_9_setters_getters.pdb
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\obj\Debug\netcoreapp3.1\Practica_9_setters_getters.csprojAssemblyReference.cache
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\obj\Debug\netcoreapp3.1\Practica_9_setters_getters.AssemblyInfoInputs.cache
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\obj\Debug\netcoreapp3.1\Practica_9_setters_getters.AssemblyInfo.cs
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\obj\Debug\netcoreapp3.1\Practica_9_setters_getters.csproj.CoreCompileInputs.cache
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\obj\Debug\netcoreapp3.1\Practica_9_setters_getters.dll
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\obj\Debug\netcoreapp3.1\Practica_9_setters_getters.pdb
+D:\ProgrammingByEvents-C-\Practica_9_setters_getters\Practica_9_setters_getters\obj\Debug\netcoreapp3.1\Practica_9_setters_getters.genruntimeconfig.cache

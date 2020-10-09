@@ -1,0 +1,13 @@
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\bin\Debug\netcoreapp3.1\Practica_6.exe
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\bin\Debug\netcoreapp3.1\Practica_6.deps.json
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\bin\Debug\netcoreapp3.1\Practica_6.runtimeconfig.json
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\bin\Debug\netcoreapp3.1\Practica_6.runtimeconfig.dev.json
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\bin\Debug\netcoreapp3.1\Practica_6.dll
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\bin\Debug\netcoreapp3.1\Practica_6.pdb
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\obj\Debug\netcoreapp3.1\Practica_6.csprojAssemblyReference.cache
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\obj\Debug\netcoreapp3.1\Practica_6.AssemblyInfoInputs.cache
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\obj\Debug\netcoreapp3.1\Practica_6.AssemblyInfo.cs
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\obj\Debug\netcoreapp3.1\Practica_6.csproj.CoreCompileInputs.cache
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\obj\Debug\netcoreapp3.1\Practica_6.dll
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\obj\Debug\netcoreapp3.1\Practica_6.pdb
+D:\ProgrammingByEvents-C-\Practica_6\Practica_6\obj\Debug\netcoreapp3.1\Practica_6.genruntimeconfig.cache

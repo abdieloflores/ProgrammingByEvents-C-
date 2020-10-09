@@ -1,0 +1,13 @@
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\bin\Debug\netcoreapp3.1\Practica_8_Objetos.exe
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\bin\Debug\netcoreapp3.1\Practica_8_Objetos.deps.json
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\bin\Debug\netcoreapp3.1\Practica_8_Objetos.runtimeconfig.json
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\bin\Debug\netcoreapp3.1\Practica_8_Objetos.runtimeconfig.dev.json
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\bin\Debug\netcoreapp3.1\Practica_8_Objetos.dll
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\bin\Debug\netcoreapp3.1\Practica_8_Objetos.pdb
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\obj\Debug\netcoreapp3.1\Practica_8_Objetos.csprojAssemblyReference.cache
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\obj\Debug\netcoreapp3.1\Practica_8_Objetos.AssemblyInfoInputs.cache
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\obj\Debug\netcoreapp3.1\Practica_8_Objetos.AssemblyInfo.cs
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\obj\Debug\netcoreapp3.1\Practica_8_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\obj\Debug\netcoreapp3.1\Practica_8_Objetos.dll
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\obj\Debug\netcoreapp3.1\Practica_8_Objetos.pdb
+C:\Users\Abdiel Flores\source\repos\Practica_8_Objetos\Practica_8_Objetos\obj\Debug\netcoreapp3.1\Practica_8_Objetos.genruntimeconfig.cache

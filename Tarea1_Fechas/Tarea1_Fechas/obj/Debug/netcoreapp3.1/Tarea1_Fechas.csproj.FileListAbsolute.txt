@@ -11,3 +11,16 @@ C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fecha
 C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.dll
 C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.pdb
 C:\Users\Abdiel Flores\Desktop\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.genruntimeconfig.cache
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.exe
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.deps.json
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.runtimeconfig.json
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.runtimeconfig.dev.json
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.dll
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\bin\Debug\netcoreapp3.1\Tarea1_Fechas.pdb
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.csprojAssemblyReference.cache
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.AssemblyInfoInputs.cache
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.AssemblyInfo.cs
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.csproj.CoreCompileInputs.cache
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.dll
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.pdb
+D:\ProgrammingByEvents-C-\Tarea1_Fechas\Tarea1_Fechas\obj\Debug\netcoreapp3.1\Tarea1_Fechas.genruntimeconfig.cache
